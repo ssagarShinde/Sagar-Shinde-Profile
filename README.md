@@ -21,9 +21,6 @@ I'm an iOS developer with a passion for building beautiful, scalable, and user-f
 - **Testing:** XCTest, Quick/Nimble, XCUITest
 - **CI/CD:** GitHub Actions, Bitrise, TestFlight
 
-## 📈 GitHub Stats
-
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=swift)
 
 ## 📫 Connect with Me
 
